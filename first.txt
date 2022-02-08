@@ -1,1 +1,1 @@
-the first lesson on git
+the Second  lesson on git
